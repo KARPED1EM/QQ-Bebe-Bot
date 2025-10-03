@@ -28,5 +28,3 @@ Please note that this bot may require significant configuration to function prop
   - 3.2.0.2 → XiaoLiZi SDK 4.3.3
   - 4.2.0.2 → XiaoLiZi SDK 4.7.8
   - 5.0.0.0 → XiaoLiZi SDK 4.7.8 (no-package version)
-
----
