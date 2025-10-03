@@ -1,20 +1,21 @@
-# QQ-Bebe-Bot
+# QQ-Bebe-Bot (败北姬)
+
+> 🚧 This is an **ancient artifact** from my childhood coding adventures.  
+> It survives here purely for sentimental reasons. Proceed with caution (and humor)!
+
+## Overview
 
 A QQ bot based on the XiaoLiZi framework, originally developed for a private fan group.
 
-This project was created on a whim and went through several updates over two years. It is no longer actively maintained.
-
----
+This project was created on a whim and went through several updates over two years. It is no longer maintained.
 
 ## Usage Notes
 
 Please note that this bot may require significant configuration to function properly. You'll need to use the appropriate framework version and extract the configuration ZIP file to your desktop. Alternatively, you can modify the file paths directly in the source code.
 
----
-
 ## Technical Information
 
-- Programming Language: EPL (Easy Programming Language) 5.9
+- Programming Language: E Language (易语言) 5.9
 - QQ Bot Framework: [XiaoLiZi Framework](http://www.xiaolz.cn/)
 
 - Version compatibility with XiaoLiZi SDK:
