@@ -1,30 +1,30 @@
-# QQBot-XLZ-Bebe
-基于小栗子框架的QQ机器人，粉丝群自用
+# QQ-Bebe-Bot (败北姬)
 
-这个项目是我曾经一时兴起随手做的，后来在两年内经历了数次更新，现在已经放弃更新。
+> 🚧 This is an **ancient artifact** from my childhood coding adventures.  
+> It survives here purely for sentimental reasons. Proceed with caution (and humor)!
 
----
+## Overview
 
-## 顺带一提：
+A QQ bot based on the XiaoLiZi framework, originally developed for a private fan group.
 
-用的话多半是用不了的吧，琢磨琢磨也许可以恢复一部分功能的运作，记得找对应的框架，另外记得把配置文件zip解压到桌面。当然你也可以在源码里面改路径
+This project was created on a whim and went through several updates over two years. It is no longer maintained.
 
----
+## Usage Notes
 
-## 基础信息：
+Please note that this bot may require significant configuration to function properly. You'll need to use the appropriate framework version and extract the configuration ZIP file to your desktop. Alternatively, you can modify the file paths directly in the source code.
 
-- 易语言版本：5.9
-- QQ机器人框架：[小栗子框架](http://www.xiaolz.cn/)
+## Technical Information
 
-- 各个败北姬版本对应小栗子SDK版本：
+- Programming Language: E Language (易语言) 5.9
+- QQ Bot Framework: [XiaoLiZi Framework](http://www.xiaolz.cn/)
+
+- Version compatibility with XiaoLiZi SDK:
  
-  - 0.1.3.0 --- 小栗子sdk3.4.2
-  - 1.0.3.1 --- 小栗子sdk3.5.7
-  - 1.1.1.4 --- 小栗子sdk3.5.7
-  - 2.1.0.0 --- 小栗子sdk3.6.4
-  - 2.2.0.2 --- 小栗子sdk3.6.5
-  - 3.2.0.2 --- 小栗子sdk4.3.3
-  - 4.2.0.2 --- 小栗子sdk4.7.8
-  - 5.0.0.0 --- 小栗子sdk4.7.8_免打包版
-
----
+  - 0.1.3.0 → XiaoLiZi SDK 3.4.2
+  - 1.0.3.1 → XiaoLiZi SDK 3.5.7
+  - 1.1.1.4 → XiaoLiZi SDK 3.5.7
+  - 2.1.0.0 → XiaoLiZi SDK 3.6.4
+  - 2.2.0.2 → XiaoLiZi SDK 3.6.5
+  - 3.2.0.2 → XiaoLiZi SDK 4.3.3
+  - 4.2.0.2 → XiaoLiZi SDK 4.7.8
+  - 5.0.0.0 → XiaoLiZi SDK 4.7.8 (no-package version)
